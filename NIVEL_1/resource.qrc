@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/">
+        <file>piso1.png</file>
+        <file>muro.png</file>
+        <file>down.gif</file>
+        <file>left.gif</file>
+        <file>right.gif</file>
+        <file>up.gif</file>
+        <file>muro1.png</file>
+        <file>muro2.png</file>
+        <file>fuente.png</file>
+        <file>enemy.gif</file>
+        <file>mesa_augusto.png</file>
+        <file>mesa1.png</file>
+        <file>mesa2.png</file>
+    </qresource>
+</RCC>
